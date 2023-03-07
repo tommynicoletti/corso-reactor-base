@@ -1,0 +1,39 @@
+# Maven target directory
+target/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
